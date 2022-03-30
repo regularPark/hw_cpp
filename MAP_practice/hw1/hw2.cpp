@@ -55,4 +55,4 @@ using namespace std;
 //	int money = a.withdraw(20000);
 //	cout << a.getOwner() << "ÀÇ ÀÜ¾×Àº " << a.inquiry() << endl;
 //	return 0;
-//}
+//}-
